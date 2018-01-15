@@ -1,5 +1,5 @@
 # cascade_dropdowns
-Cascade Dropdowns (with unlimited nesting) Component written in Angular JS.
+Cascade Dropdowns Component is written in Angular JS.
 
 
 There is a example of use cascade_dropdown_component with fake data.
